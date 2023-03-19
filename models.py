@@ -6,7 +6,7 @@ import numpy as np
 import tabula as tb
 import re
 import os
-from parse_params import param_dict
+from CONFIG import param_dict
 
 
 class BankInfo:
